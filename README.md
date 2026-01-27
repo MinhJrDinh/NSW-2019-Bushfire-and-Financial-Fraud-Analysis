@@ -1,4 +1,4 @@
-Click on the .ipynb file to view the report. 
+Click on the 2019-nsw-bushfire-and-fraud-analysis.ipynb. file to view the report. 
 - The LGA folder is shapefiles of NSW used to create map visualisations.
 - crime_data.csv is a csv made by web scrapping the BOSCAR crime map tool with permission. 
 - Scam statistics were exported from the Scamwatch Australia website. 
